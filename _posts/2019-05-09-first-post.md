@@ -1,22 +1,8 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+title: "도토리를 모읍니다!"
+date: 2019-09-15 18:26:28 -0400
+categories: 도토리
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-​```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
-​```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+개발을 하면서 노트에, 블로그에, 워드 문서에 여기저기 잔뜩 정리는 해두었지만 자꾸 어디론가 사라지는 메모들이 늘 의문입니다.
+다람쥐들이 열심히 모아둔 도토리를 큰- 구름 밑에 숨겨두고는 통 다시 찾지 못하는 바람에 자라나 버린 도토리 나무 이야기는 꼭 제 상황 같습니다.
+그래서 이 어김없이 사라질 나의 도토리같은 메모들을 한 곳에 모아두는 작업이 필요한 것 같아 이 페이지를 생성하였습니다.
